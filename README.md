@@ -1,4 +1,4 @@
-# curso_git
+# curso-git
 
 ## Projeto desenvolvido em sala de aula
 
